@@ -8,3 +8,4 @@ seaborn
 tensorflow
 keras
 streamlit
+tensorflow==2.11.0
