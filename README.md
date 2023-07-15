@@ -7,7 +7,7 @@
 4. Hetvi Shah - 101439231
 
 ## Project Description:
-Creating a Ship Wreck prediction application using the Titanic dataset and Streamlit.
+Creating an island Survival prediction application using the Titanic dataset and Streamlit.
 
 ## Steps:
 1. We created our own random dataset with the help of the following Dataset: [Titanic dataset](https://www.kaggle.com/datasets/brendan45774/test-file).
