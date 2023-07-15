@@ -2,8 +2,8 @@
 Link to our Streamlit Application: [Predict_Survival](https://predictsurvivalpy-8xmncfic0ip.streamlit.app/)
 ## Project members:
 1. Yash Suresh Upadhyay -101378657
-2. Vivek Patel - 101446059
-3. Vishal Patel - 101432083
+2. Vivek Patel - 101432083
+3. Vishal Patel - 101446059
 4. Hetvi Shah - 101439231
 
 ## Project Description:
@@ -11,13 +11,22 @@ Creating an Island Survival prediction application using the Titanic dataset and
 
 ## Steps:
 1. We created our own random dataset with the help of the following Dataset: [Titanic dataset](https://www.kaggle.com/datasets/brendan45774/test-file).
-2. Preprocessing the data.
-3. Training the model and saving the model for application use.
-4. Creating a machine learning web application using Streamlit.
-5. Uploading the necessary files in Git Hub and deploying the Streamlt code into the Streamlit cloud.
+   * Gender: The gender of the individual (Male or Female)
+   * Age: The age of the person.
+   * Health: The health condition of the individual (Poor, Good, Excellent).
+   * Shelter_Built: A binary variable indicating whether the person has built a shelter (Yes or No).
+   * Water_Available: A binary variable indicating whether there is access to water (Yes or No).
+   * Food_Available: A binary variable indicating whether there is access to food (Yes or No).
+   * Days_Survived: The number of days the person has survived on the island.
+   * Survived: A binary variable indicating whether the person has been rescued (Yes or No).
+3. Preprocessing the data.
+4. Training the model and saving the model for application use.
+5. Creating a machine learning web application using Streamlit.
+6. Uploading the necessary files in Git Hub and deploying the Streamlt code into the Streamlit cloud.
 
 ## Image
-The following images show a glimpse of our working Streamlit application.
+The following images show a glimpse of our working Streamlit application. 
+Images shows based on the input whetherthe person will survive or not.
 
 ![alt text](![WhatsApp Image 2023-07-14 at 22 55 34](https://github.com/vpatel2398/Miniproject-Part-II/assets/39990761/8e1dc461-a6b4-4d30-973b-5b50bc01064e "Image-1")
 
