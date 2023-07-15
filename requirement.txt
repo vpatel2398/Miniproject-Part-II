@@ -1,3 +1,4 @@
+tensorflow==2.13.0
 aiofiles==23.1.0
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 altair==5.0.1
