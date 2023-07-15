@@ -17,5 +17,9 @@ Creating an Island Survival prediction application using the Titanic dataset and
 5. Uploading the necessary files in Git Hub and deploying the Streamlt code into the Streamlit cloud.
 
 ## Image
-![alt text](![WhatsApp Image 2023-07-14 at 22 55 34](https://github.com/vpatel2398/Miniproject-Part-II/assets/39990761/8e1dc461-a6b4-4d30-973b-5b50bc01064e)
+![alt text](![WhatsApp Image 2023-07-14 at 22 55 34](https://github.com/vpatel2398/Miniproject-Part-II/assets/39990761/8e1dc461-a6b4-4d30-973b-5b50bc01064e "Image-1")
+
+![alt text](![WhatsApp Image 2023-07-14 at 22 56 36](https://github.com/vpatel2398/Miniproject-Part-II/assets/39990761/72ed48ab-ed4c-4805-96a9-919bba2ef872)"Image-2"
+)
+![alt text](![WhatsApp Image 2023-07-14 at 22 57 38](https://github.com/vpatel2398/Miniproject-Part-II/assets/39990761/bdff1403-c926-4b8f-97dc-1f58d420b468 "Image-3")
 )
