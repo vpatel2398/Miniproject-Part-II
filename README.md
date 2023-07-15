@@ -12,5 +12,5 @@ Creating an Island Survival prediction application using the Titanic dataset and
 ## Steps:
 1. We created our own random dataset with the help of the following Dataset: [Titanic dataset](https://www.kaggle.com/datasets/brendan45774/test-file).
 2. Preprocessing the data.
-3. 
+3. we
 
