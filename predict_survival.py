@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import tensorflow as tf
+import tensorflow
 from tensorflow import keras
 from tensorflow.keras.models import load_model
 from sklearn.model_selection import train_test_split
@@ -32,11 +32,11 @@ model_filename = "island_survival.h5"
 def train_model(X_train,y_train):
     model = keras.Sequential([
     keras.layers.Flatten(input_shape=(7,)),
-    keras.layers.Dense(128, activation=tf.nn.relu),
-    keras.layers.Dense(1, activation=tf.nn.sigmoid)
+    keras.layers.Dense(128, activation=tensorflow.nn.relu),
+    keras.layers.Dense(1, activation=tensorflow.nn.sigmoid)
     ])
 
-    optimizer = tf.keras.optimizers.Adam(learning_rate=0.00001)
+    optimizer = tensorflow.keras.optimizers.Adam(learning_rate=0.00001)
     model.compile(optimizer=optimizer, loss='binary_crossentropy', metrics=['accuracy'])
     model.fit(X_train, y_train, epochs=25, batch_size=1,validation_data=(X_val, y_val))
     
@@ -72,7 +72,7 @@ def survival():
         sex = 0
 
     data = [[Health_condition, sex, age, Shelter_Built,Food_Available,Water_Available,Days_Survived]]
-    data = tf.constant(data)
+    data = tensorflow.constant(data)
 
     if st.button('Predict'):
         prediction = model.predict(data, steps=1)
